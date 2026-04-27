@@ -1,0 +1,2 @@
+# Este proyecto no requiere dependencias externas instalables con pip.
+# Solo necesita Python 3.10+ con Tkinter disponible en la instalación.
